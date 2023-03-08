@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AyushiRanjan
-- 👀 I’m interested in learning Mixed reality
-- 🌱 I’m currently learning p5.js
+- 🌱 I’m currently a Product Designer
 - 💞️ I’m looking to collaborate on a lot of different projects
 
 
